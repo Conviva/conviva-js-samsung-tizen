@@ -15,16 +15,6 @@ The Conviva JavaScript Samsung TV Tizen module is built on top of <a href="https
 npm install @convivainc/conviva-js-samsung-tizen --save
 ```
 
-## Usage
-
-```
-import Conviva from '@convivainc/conviva-js-coresdk';
-import ConvivaModule from '@convivainc/conviva-js-samsung-tizen';
-or
-const Conviva = require('@convivainc/conviva-js-coresdk');
-const ConvivaModule = require('@convivainc/conviva-js-samsung-tizen');
-```
-
 ## Supported Framework Versions
 | Supported Framework Versions | Supported Smart TVs |
 |----------|:-------------:|

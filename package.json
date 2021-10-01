@@ -17,7 +17,7 @@
     "analytics"
   ],
   "author": "Conviva Inc",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/Conviva/conviva-js-samsung-tizen/issues"
   },
