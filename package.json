@@ -1,0 +1,28 @@
+{
+  "name": "@convivainc/conviva-js-samsung-tizen",
+  "version": "4.0.2",
+  "description": "Conviva Samsung TV Tizen module",
+  "main": "conviva-tizen-module.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Conviva/conviva-js-samsung-tizen.git"
+  },
+  "keywords": [
+    "Conviva",
+    "tizen",
+    "module",
+    "analytics"
+  ],
+  "author": "Conviva Inc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Conviva/conviva-js-samsung-tizen/issues"
+  },
+  "homepage": "https://github.com/Conviva/conviva-js-samsung-tizen#readme",
+  "dependencies": {
+    "@convivainc/conviva-js-coresdk": "^4.4.3"
+  }
+}
