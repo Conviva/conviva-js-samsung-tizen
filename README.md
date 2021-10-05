@@ -7,6 +7,12 @@ Conviva Samsung TV Tizen module auto-detects events emitted by Tizen avplay.
 npm install @convivainc/conviva-js-samsung-tizen --save
 ```
 
+## Install via yarn
+
+```
+yarn add @convivainc/conviva-js-samsung-tizen
+```
+
 ## Supported Framework Versions
 | Supported Framework Versions | Supported Smart TVs |
 |----------|:-------------:|
